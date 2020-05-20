@@ -1,7 +1,7 @@
 # theory of machines and languages 
 
 ## check strings by DFA 
-   this script read DFA information from a text file in specefic format like below and create DFA for checking strings.
+this script reads DFA information from a text file in specific format like below and creates DFA for checking strings.
    
    a b     :    alphabet  <br />
    Q0 Q1 Q2 :   states <br />
@@ -15,5 +15,5 @@
    Q2 b Q2 <br />
 
 ## convert NFA to DFA
-   this script read NFA information from a text file like above , and convert epsilon NFA to NFA and write new NFA to
-   a text file in root directory , then convert new NFA to DFA and write this DFA beside of our script.
+  this script reads NFA information from a text file like above, and converts epsilon NFA to NFA and write new NFA to 
+   a text file in the root directory, then convert the new NFA to DFA and write this DFA beside our script.
